@@ -1,4 +1,3 @@
-# SCT_WD_1
 <!DOCTYPE html>
 <html lang="en">
 <head>
